@@ -63,7 +63,7 @@ ASP.NET Core 9 Razor Pages app with cookie auth, password hashing, EF Core + SQL
 </td>
 <td width="50%">
 
-### 🚗 [Mo’s Auto Trading](https://github.com/mamaddarvishiuk-source)
+### 🚗 [Mo’s Auto Trading](https://moautotrading.com)
 
 **Car trading platform**
 
