@@ -8,6 +8,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Building+things+on+the+web+%F0%9F%8C%90;React+%C2%B7+.NET+%C2%B7+Node.js;Full-Stack+Persian+Dev+%F0%9F%87%AE%F0%9F%87%B7;Always+learning%2C+always+shipping+%F0%9F%9A%80)](https://git.io/typing-svg)
 
+[![Website](https://img.shields.io/badge/mamadcore.com-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://mamadcore.com)
+
 </div>
 
 -----
